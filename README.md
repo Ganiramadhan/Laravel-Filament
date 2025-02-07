@@ -22,8 +22,8 @@ This project utilizes [Laravel](https://laravel.com/) and [Filament](https://fil
 
 1. **Clone Repository**
    ```sh
-   git clone https://github.com/username/repository-name.git
-   cd repository-name
+   git clone https://github.com/Ganiramadhan/Laravel-Filament.git
+   cd Laravel-Filament
    ```
 
 2. **Install Dependencies**
@@ -52,7 +52,7 @@ This project utilizes [Laravel](https://laravel.com/) and [Filament](https://fil
 6. **Access Admin Panel**
    Once the server is running, open a browser and go to:
    ```
-   http://127.0.0.1:8000/admin
+   http://127.0.0.1:8000/app/
    ```
    Use default credentials if available or create a new admin user.
 
